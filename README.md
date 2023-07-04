@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.png">
+  <img width="400px" src="assets/header.png">
 </p>
 
 ### Hi there 👋
