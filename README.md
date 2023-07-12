@@ -19,7 +19,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevelukis&layout=compact&theme=dark&langs_count=4&hide=html,php,jupyter%20notebook,kotlin,css&size_weight=0.5&count_weight=0.5" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevelukis&layout=compact&theme=dark&langs_count=6&hide=html,php,jupyter%20notebook,css&size_weight=0.5&count_weight=0.5" height="165">
 </p>
 
 ### 📝 Portfolio
