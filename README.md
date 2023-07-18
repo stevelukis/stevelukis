@@ -13,7 +13,8 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevelukis&layout=compact&theme=dark&langs_count=6&hide=html,php,jupyter%20notebook,css&size_weight=0.5&count_weight=0.5" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevelukis&layout=compact&theme=dark&langs_count=4
+&hide=php,jupyter%20notebook,css&size_weight=0.4&count_weight=0.6" height="165">
 </p>
 
 ### 📝 Portfolio
